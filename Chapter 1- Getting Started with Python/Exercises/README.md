@@ -18,6 +18,9 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are
 
+## Answers to Exercise 1:
+
+
 &nbsp;
 &nbsp;
 &nbsp;
