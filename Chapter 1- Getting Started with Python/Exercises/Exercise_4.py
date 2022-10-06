@@ -4,8 +4,7 @@
 #The Variables
 a = '"He is half of my soul, as the poets say. '
 b = 'He will be dead soon, and his honor is all that will remain. '
-c = 'It is his child, his dearest self."'
-author = ' - Madeline Miller, The Song of Achilles'
+c = 'It is his child, his dearest self." - Madeline Miller, The Song of Achilles'
 
 #Printing of the combined string
-print(a + b + c + author)
+print(a + b + c)
