@@ -1,4 +1,4 @@
-## Exercise 2: Variables :ballot_box_with_check:
+## Exercise 2: Variables 
 
     #Find a quote from a famous person you admire. Print the quote and the name of its author. 
 

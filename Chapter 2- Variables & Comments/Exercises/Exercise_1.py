@@ -1,4 +1,4 @@
-## Exercise 1: Variables:ballot_box_with_check:
+## Exercise 1: Variables
 
     #Type out the code below and add the correct data types to complete the variables
 
