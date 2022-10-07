@@ -10,15 +10,19 @@
 
 #Variable
 name = "\tLoid Forger\n"
+
 #Normal
 print("Normal: ")
 print(name)
+
 #Using lstrip()
 print("\nUsing lstrip():")
 print(name.lstrip())
+
 #Using rstrip()
 print("\nUsing rstrip():")
 print(name.rstrip())
+
 #Using strip()
 print("\nUsing strip():")
 print(name.strip())
