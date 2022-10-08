@@ -35,6 +35,7 @@ print('''
 print("\\|□_□|/ Welcome to BMO\'s Computer Shop \\|□_□|/")
 print()
 print("\"I heard that your interested in some USB's\"\n")
+print("\t  \"Each USB cost 6 pounds\"\n")
 
 ##Store input numbers
 print('.----------------------------.')
