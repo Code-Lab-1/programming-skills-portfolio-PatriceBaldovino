@@ -10,9 +10,9 @@ print('''
 
     Madeline Miller once wrote, 
 
-    "He is a weapon, Do not forget it.
+    \"He is a weapon, Do not forget it.
     You can use a spear as a walking stick,
-    but that will not change its nature."
+    but that will not change its nature.\"
 
                     - The Song of Achilles
 

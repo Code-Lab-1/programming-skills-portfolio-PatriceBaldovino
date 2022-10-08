@@ -30,11 +30,11 @@ print('''
 |       ██████╔╝██║░░██║╚█████╔╝██║░░░░░     |
 |       ╚═════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░░░░     |
 \'--------------------------------------------\'
-
 ''')
 
 print("\\|□_□|/ Welcome to BMO\'s Computer Shop \\|□_□|/")
 print()
+print("\"I heard that your interested in some USB's\"\n")
 
 ##Store input numbers
 print('.----------------------------.')
@@ -46,8 +46,9 @@ usb = int(number / 6)
 money = number - (usb * 6)
 
 #Printing of output
-print('.----------------------------------.')
-print("The amount of USB's you can buy: {0}".format(usb))
-print()
-print("The amount of money left: {0}".format(money))
-print("\'----------------------------------\'")
+print('\n.----------------------------------.')
+print(" The amount of USB's you can buy: {0}".format(usb))
+print(" The amount of money left: {0}".format(money))
+print("\'----------------------------------\'\n")
+
+print("Thank your for visiting BMO's Computer Shop <3\n")
