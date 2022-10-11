@@ -16,7 +16,7 @@
     #•If the person is age 65 or older, print a message that the person is an elder.
 
 #Variable
-age = 12
+age = 3
 
 #if-elif-else statement
 if age < 2:
@@ -107,4 +107,21 @@ elif age < 65:
     
 ''')
 else:
-    print("You're an elder!")
+    print('''
+                     .---.
+                    (_---_)
+                   (_/6 6\_)
+                    (  v  )
+You're an elder!     `\ /'
+                  .-'': ;``-.
+                 /   \,Y./   \\
+                /     (:)___  \\
+               :   .-'XXX`-.`\_;
+                `.__.-XXX-.__.'\_
+                 /  / XXX \  \   `\_
+                /      XXX    \     `\\
+               /        XXX    \     _`\___
+              /                 \  (`--"""-')
+             /                   \ (=-=-=-=-)
+             `--...___   ___...--' (________)   
+           ''')
