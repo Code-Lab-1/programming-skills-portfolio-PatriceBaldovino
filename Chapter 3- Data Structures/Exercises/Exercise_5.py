@@ -67,7 +67,19 @@ print('''
 
 ## Ciel Phantomhive cant make it to the dinner, lets invite someone else
 del(guests[1])
-guests.insert(1, 'Mey-Rin')
+guests.insert(1, 'Elizabeth Midford')
+
+print('''
+        .------------------------------------------------.
+        | Dear The Royal Palace,                         |
+        |                                                |
+        |      It saddens me to inform you that the      |  
+        |     Earl Ciel Phantomhive will not be able     | 
+        |          to attend the festivities.            |
+        |                                                |
+        |                  - Sincerly Ciel Phantomhive   |
+        \'------------------------------------------------\'
+''')
 
     ## Invitation Print
 # First guest
