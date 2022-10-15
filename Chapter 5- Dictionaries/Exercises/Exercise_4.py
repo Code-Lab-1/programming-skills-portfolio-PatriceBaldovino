@@ -14,12 +14,12 @@ rivers = {
     'Pasig River': 'Philippines',
     'Shinano River': 'Japan',
     'Ganges': 'India',
-    'kuskokwim': 'alaska',
-    'yangtze': 'china',
+    'Po': 'Italy',
+    'Loire': 'France',
     }
 
 for river, country in rivers.items():
-    print("The " + river.title() + " flows through " + country.title() + ".")
+    print("\nThe " + river.title() + " flows through " + country.title() + ".")
 
 print("\nThe following rivers are included in this data set:")
 for river in rivers.keys():
