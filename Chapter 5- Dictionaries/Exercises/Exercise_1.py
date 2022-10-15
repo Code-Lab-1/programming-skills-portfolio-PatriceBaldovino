@@ -12,6 +12,14 @@ person = {
     'city': 'Kanagawa',
     }
 
+#Printing of output
+
+print('''
+
+Add ascii art here
+
+''')
+
 print(person['first_name'])
 print(person['last_name'])
 print(person['age'])
