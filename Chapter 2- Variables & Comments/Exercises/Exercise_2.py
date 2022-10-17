@@ -8,12 +8,10 @@
 
 print('''
 
-    Madeline Miller once wrote, 
+    Zhongli Quan once said, 
 
-    \"He is a weapon, Do not forget it.
-    You can use a spear as a walking stick,
-    but that will not change its nature.\"
-
-                    - The Song of Achilles
+    \"Osmanthus wine tastes the same 
+    as I remember... But where are those 
+    who share the memory?\"
 
 ''')
