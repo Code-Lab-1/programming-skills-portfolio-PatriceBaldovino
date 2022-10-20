@@ -13,8 +13,25 @@ import turtle
     #turtle.left(300)
 
 # Starting a Working Screen
-ws = turtle.Screen()
-geekyTurtle = turtle.Turtle()
-for i in range(5):
-        geekyTurtle.forward(100)
-        geekyTurtle.right(144)
+#ws = turtle.Screen()
+#geekyTurtle = turtle.Turtle()
+#for i in range(5):
+        #geekyTurtle.forward(100)
+        #geekyTurtle.right(144)
+
+## Draw Ears
+import turtle
+pen = turtle.Turtle()
+def ring(col, rad):
+#first ear
+    pen.up()
+    pen.setpos(-35,95)
+    pen.down
+    ring('black', 15)
+    pen.up()
+    pen.setpos(35,95)
+    pen.down()
+    ring('black', 15)
+    
+
+
