@@ -5,3 +5,6 @@
     press ctrl-C or close the window displaying the output.)
 '''
 
+#While loop
+while True:
+    print("This will never end :)")
