@@ -40,8 +40,7 @@ print('''
 \t  Hello welcome to Soobway!
 ''')
 
-
-#Sandwich order
+#Sandwich order loop
 while sandwich_orders:
     current_sandwich = sandwich_orders.pop()
     print("I'm working on your " + current_sandwich + " sandwich.")
