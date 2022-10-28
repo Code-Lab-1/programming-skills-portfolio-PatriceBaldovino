@@ -11,29 +11,38 @@ pets = []
 
 #Individual pets and store each one in the list.
 pet = {
-    'animal type': 'python',
-    'name': 'john',
-    'owner': 'guido',
-    'weight': 43,
-    'eats': 'bugs',
+    'animal type': 'panda',
+    'name': 'po',
+    'owner': 'princess',
+    'weight': 70,
+    'eats': 'bamboo',
 }
 pets.append(pet)
 
 pet = {
-    'animal type': 'chicken',
-    'name': 'clarence',
-    'owner': 'tiffany',
-    'weight': 2,
-    'eats': 'seeds',
+    'animal type': 'gorilla',
+    'name': 'harambe',
+    'owner': 'gladys',
+    'weight': 200,
+    'eats': 'celery',
 }
 pets.append(pet)
 
 pet = {
-    'animal type': 'dog',
-    'name': 'peso',
-    'owner': 'eric',
-    'weight': 37,
-    'eats': 'shoes',
+    'animal type': 'deer',
+    'name': 'bambi',
+    'owner': 'frank',
+    'weight': 60,
+    'eats': 'grass',
+}
+pets.append(pet)
+
+pet = {
+    'animal type': 'shark',
+    'name': 'bruce',
+    'owner': 'robert',
+    'weight': 547,
+    'eats': 'humans',
 }
 pets.append(pet)
 
