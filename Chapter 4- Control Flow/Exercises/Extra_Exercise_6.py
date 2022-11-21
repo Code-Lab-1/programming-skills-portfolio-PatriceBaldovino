@@ -10,6 +10,7 @@
     - If the user inputs a score lower or equal to 30, then print "Failed"
     - If they dont input the score properly, then print "Something went wrong with the system"
 '''
+#Ascii Art
 print('''
                      _____________________________________________
                     |  _________________________________________  |
@@ -34,8 +35,11 @@ print('''
 
 ''')
 print('------------------------')
+#Code for computing grade
+#input of marks
 marks = int(input(" Enter your marks: "))
-if marks>=80 and marks<=90:
+if marks>=80 and marks<=90: #computes the mark
+  #printing of result
   print(''' 
  ________________
 |                |
