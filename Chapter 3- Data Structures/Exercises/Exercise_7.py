@@ -1,4 +1,4 @@
-## Exercise 7: Seeing the World :ballot_box_with_check:
+## Exercise 7: Seeing the World 
 
 '''
     Think of at least five places in the world you’d like to visit.
