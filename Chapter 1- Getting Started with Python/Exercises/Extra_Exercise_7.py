@@ -1,4 +1,4 @@
-#Print the subtraction of two numbers
+#Exercise 7: Print the subtraction of two numbers
     #September 15, 2022
 
 print()
