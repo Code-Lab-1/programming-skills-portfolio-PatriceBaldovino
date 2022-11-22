@@ -1,4 +1,5 @@
-#Online variable exercise
+#Exercise 9:
+    #Online variable exercise
 
 '''
 Below is a good example of mixing numbers and text inside the print() function
@@ -9,4 +10,4 @@ Assign: 3 to variable glass_of_water.
 
 glass_of_water = 3
 
-print("I drank", glass_of_water, "glasses of water today.")
+print("\nI drank", glass_of_water, "glasses of water today.\n")
