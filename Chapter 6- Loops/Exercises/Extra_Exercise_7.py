@@ -1,37 +1,57 @@
-#Turtle Loop
-'''
-import turtle
-circle = 36
-radius = 120
-angle = 100
-for x in range (circle):
-  #turtle.circle(radius)
-  #turtle.left(angle)
+#Turtle Loop - Face
 
-for x in range(6):
-    #turtle.forward(90)
-    #turtle.left(300)
-
- Starting a Working Screen
-ws = turtle.Screen()
-geekyTurtle = turtle.Turtle()
-for i in range(5):
-        #geekyTurtle.forward(100)
-        #geekyTurtle.right(144)
-'''
-## Draw Ears
+# Python program to draw smile
+# face emoji using turtle
 import turtle
+ 
+# turtle object
 pen = turtle.Turtle()
-def ring(col, rad):
-#first ear
-    pen.up()
-    pen.setpos(-35,95)
-    pen.down
-    ring('black', 15)
-    pen.up()
-    pen.setpos(35,95)
+ 
+# function for creation of eye
+def eye(col, rad):
     pen.down()
-    ring('black', 15)
-    
-
+    pen.fillcolor(col)
+    pen.begin_fill()
+    pen.circle(rad)
+    pen.end_fill()
+    pen.up()
+ 
+ 
+# draw face
+pen.fillcolor('yellow')
+pen.begin_fill()
+pen.circle(100)
+pen.end_fill()
+pen.up()
+ 
+# draw eyes
+pen.goto(-40, 120)
+eye('white', 15)
+pen.goto(-37, 125)
+eye('black', 5)
+pen.goto(40, 120)
+eye('white', 15)
+pen.goto(40, 125)
+eye('black', 5)
+ 
+# draw nose
+pen.goto(0, 75)
+eye('black', 8)
+ 
+# draw mouth
+pen.goto(-40, 85)
+pen.down()
+pen.right(90)
+pen.circle(40, 180)
+pen.up()
+ 
+# draw tongue
+pen.goto(-10, 45)
+pen.down()
+pen.right(180)
+pen.fillcolor('red')
+pen.begin_fill()
+pen.circle(10, 180)
+pen.end_fill()
+pen.hideturtle()
 
