@@ -13,6 +13,7 @@ Twinkle, twinkle, little star,
 
  # Answers to Exercise 1:
 
+print()
 print ("Twinkle, twinkle, little star,") 
 print ("	How I wonder what you are!")
 print ("		Up above the world so high,")
