@@ -1,4 +1,4 @@
-# Print the sum of two numbers
+#Exercise 6: Print the sum of two numbers
     #September 15, 2022
 
 print()
