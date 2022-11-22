@@ -1,4 +1,4 @@
-#Print the multiplication of 2 numbers
+#Exercise 8: Print the multiplication of 2 numbers
     #September 15, 2022
 
 print()
