@@ -1,4 +1,4 @@
-#Divide the number 5 by 2 and print the answer
+#Exercise 9: Divide the number 5 by 2 and print the answer
     #September 15, 2022
 
 print()
