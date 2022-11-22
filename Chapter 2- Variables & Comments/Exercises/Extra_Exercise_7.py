@@ -1,4 +1,5 @@
-#September 21, 2022
+#Exercise 7:
+  #September 21, 2022
 
 '''
     - Create 5 subjects variables and take marks from the user
