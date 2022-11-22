@@ -1,8 +1,9 @@
-## Exercise 5: Compute area of Circle :ballot_box_with_check:
+## Exercise 5: Compute area of Circle 
 
     #Write a Python program which accepts the radius of a circle from the user and compute the area.
 
 #Enter the radius
+print()
 radius = float(input("Enter Radius of a circle: "))
 
 #Computation
