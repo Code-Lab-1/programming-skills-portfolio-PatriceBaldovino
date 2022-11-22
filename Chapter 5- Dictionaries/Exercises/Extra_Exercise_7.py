@@ -5,7 +5,8 @@ print()
 
 genshin = {
     
-       "Scaramouche" : "Mommy Issues", "Diluc" : "Emotionaly Unavailable", "Keaya" : "Comitment issues", "Xiao" : "Emotionally Detached"
+       "Scaramouche" : "Mommy Issues", "Diluc" : "Emotionaly Unavailable", 
+       "Keaya" : "Comitment issues", "Xiao" : "Emotionally Detached"
 
 }
 
