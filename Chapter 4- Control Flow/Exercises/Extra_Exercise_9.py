@@ -1,4 +1,9 @@
-#
+#Exercise 9: Online Exercise
+
+'''
+   Write a programm that ask for the time they arrive then 
+   prints whether they are early or late
+'''
 
 print('''
         _____
