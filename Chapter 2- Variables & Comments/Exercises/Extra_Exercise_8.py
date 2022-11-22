@@ -1,4 +1,4 @@
-# Python program to draw square using Turtle Programming
+#Exercise 8: Python program to draw square using Turtle Programming
     #September 21, 2022
     
 import turtle
