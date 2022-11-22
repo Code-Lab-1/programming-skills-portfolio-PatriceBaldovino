@@ -1,4 +1,5 @@
-#Setember 21, 2022
+#Exercise 6: 
+    #Setember 21, 2022
 
 #Variables
 name = "Patrice Baldovino"
@@ -9,4 +10,6 @@ department = "Creative Computing"
 level = "Year 1"
 
 #Printing Valuables
+print()
 print (name, age, contact_number, email, department, level)
+print()
