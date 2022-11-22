@@ -1,5 +1,6 @@
 #print the following - 26/10/2022
 
+#My example
 '''
 print("The following lines will print each letters of Apple")
 apple = ['A','p','p','l','e\n']
@@ -35,6 +36,7 @@ for i in apple:
     break
 '''
 
+#Sirs Example
 words =["Apple\n","Banana\n","Car\n","Dolphin\n"]
 for word in words:
     #THis loop is fetching word from the list 
